@@ -14,3 +14,8 @@ The purpose of this laboratory is to build a first end to end reflex-based AI mo
   3. A modern representation learning approach in which deep convolutional neural networks (CNN) are used to learn the image representations :
 	- Building a CNN from scratch using Keras
 	- Fine tuning the output layer of a pretrained VGG16 model
+	
+### Contents of the repo :
+- The Dogs_Cats_Full notebook contains all three approaches with some detailed comments on the different implementation steps
+- The Kaggle_D&C notebook is the adaptation of the VGG16 model for the Dogs vs Cats competition on Kaggle
+
